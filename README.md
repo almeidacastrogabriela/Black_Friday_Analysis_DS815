@@ -16,6 +16,7 @@
 In this repository it's possible to find:
 - English version of the project
 - Portuguese version of the project
+- Presentation of Question 12 & 13 into Graphs - English version
 
 ### 🖥️ Concepts:
 - Setting up the analysis.
@@ -31,6 +32,8 @@ In this repository it's possible to find:
 - Using an additional library to generate reports Pandas_Profiling.
 
 - Generating graphs with Matplotlib and Seaborn.
+
+📢 **Curiosity**: It was not a requirement of the project to present the data into graphs. Students of Data Science 815 hadn't previously seen graphs and our group decided to do aditional research in order to present information and conclusions through visual representation.
 
 ### 📖 Description
 The project consisted into answering the following questions:
